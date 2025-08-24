@@ -27,3 +27,4 @@ This project is a part of my **Python learning journey**, where I practice writi
 - Add a scoreboard feature
 
 - Build a GUI version using Tkinter
+---
