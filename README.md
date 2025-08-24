@@ -1,4 +1,4 @@
-# 🎯 Python Number Guessing Game
+# 🔢 Python Number Guessing Game
 
 A simple command-line number guessing game built with Python.  
 The program randomly selects a number within a specified range, and the player tries to guess it.  
