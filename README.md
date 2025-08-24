@@ -19,3 +19,11 @@ This project is a part of my **Python learning journey**, where I practice writi
 - Python 3.x
 
 ---
+## 📌 Future Improvements
+
+- Add a difficulty level (Easy, Medium, Hard)
+- Limit the number of guesses (with Game Over message)
+
+- Add a scoreboard feature
+
+- Build a GUI version using Tkinter
